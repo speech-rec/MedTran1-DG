@@ -1,4 +1,4 @@
-# medical_dictation_app
+# dictation_app
 
 Professional medical dictation app with speech-to-text and SOAP notes conversion
 
